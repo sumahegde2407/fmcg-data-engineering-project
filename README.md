@@ -39,7 +39,7 @@ Merge Child Gold + Parent Gold → Unified fact_orders table
 
 ## Key Features
 - Event-driven pipeline (Storage Event Trigger)
-- Incremental loading with watermark (file_modification_time)
+- Full load + Incremental load (watermark-based)
 - Medallion Architecture (Bronze → Silver → Gold)
 - Multi-source data consolidation (Parent OLTP + Child S3/ADLS)
 - Star Schema data modeling (fact + dimension tables)
