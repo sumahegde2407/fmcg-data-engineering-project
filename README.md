@@ -67,4 +67,7 @@ Merge Child Gold + Parent Gold → Unified fact_orders table
 3. Databricks Workflow processes Bronze → Silver → Gold
 4. Query unified Gold table: `databricksmaster.gold.fact_orders`
 
+## Screenshots
+| ![Silver Output](screenshots/5_silver_data_output.PNG) | ![Gold Count](screenshots/6_gold_row_count.PNG) |
+
 
