@@ -67,7 +67,4 @@ Merge Child Gold + Parent Gold → Unified fact_orders table
 3. Databricks Workflow processes Bronze → Silver → Gold
 4. Query unified Gold table: `databricksmaster.gold.fact_orders`
 
-## Setup
-Replace `<YOUR_STORAGE_ACCOUNT_KEY>` with your Azure 
-Storage Account key in each notebook before running.
 
