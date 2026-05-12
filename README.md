@@ -68,6 +68,11 @@ Merge Child Gold + Parent Gold → Unified fact_orders table
 4. Query unified Gold table: `databricksmaster.gold.fact_orders`
 
 ## Screenshots
-| ![Silver Output](screenshots/5_silver_data_output.PNG) | ![Gold Count](screenshots/6_gold_row_count.PNG) |
+
+| | |
+|---|---|
+| ![ADF Pipeline](2_screenshots/1_adf_pipeline_canvas.PNG) | ![Storage Trigger](2_screenshots/2_adf_storage_trigger.PNG) |
+| ![Databricks Workflow](2_screenshots/3_databricks_workflow_run.PNG) | ![Bronze Output](2_screenshots/4_bronze_data_output.PNG) |
+| ![Silver Output](2_screenshots/5_silver_data_output.PNG) | ![Gold Count](2_screenshots/6_gold_row_count.PNG) |
 
 
